@@ -1,0 +1,2 @@
+# Caso-de-Estudio_Analisis-y-Prediccion-de-Datos-de-Empleados
+Se desarrolla el análisis y modelado sobre un dataset de empleados de una empresa. Este incluye información sobre la educación, año de incorporación, ciudad de trabajo, categoría salarial, edad, género, si han sido asignados temporalmente a la banca (EverBenched), experiencia en el dominio actual y si el empleado tomó tiempo libre (LeaveOrNot).
